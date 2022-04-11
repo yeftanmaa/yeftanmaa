@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeftanmaa
-- 👀 I’m interested in Technology and Design
-- 🌱 I’m currently learning NextJS and some CSS Frameworks
-- 💞️ I’m looking to collaborate on GitHub
+- 👀 Interested in Technology and Design
+- 🌱 Currently learning NextJS and some CSS Frameworks
+- 💞️ Would love to collaborate on GitHub
 - 📫 Reach me via Instagram @yeftanma!
 
 <!---
